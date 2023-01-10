@@ -13,6 +13,7 @@ Please note that Fugu15 does not support tweaks (no tweak injection library).
 
 Other devices are probably supported as well.  
 Non-arm64e devices are not supported.
+https://api.jailbreaks.app/troll64e
 
 # Building
 Prerequisites:  
